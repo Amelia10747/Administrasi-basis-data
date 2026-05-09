@@ -1,6 +1,6 @@
--- NAMA: MUTHIA AINIYYA
+-- NAMA: NURUL AMALIA PRASISKA
 -- KELAS: B
--- NIM: 24241055
+-- NIM: 24241074
 
 -- menampilkan list database
 SHOW DATABASES;
