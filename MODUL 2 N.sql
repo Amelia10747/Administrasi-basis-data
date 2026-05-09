@@ -1,5 +1,5 @@
---  Nama: MUTHIA AINIYYA
--- Nim: 24241055
+--  Nama: NURUL AMALIA PRASISKA
+-- Nim: 24241074
 -- mata kuliah: Admisnistrasi Basis Data
 -- modul: 2
 
